@@ -1,0 +1,19 @@
+{
+  "name": "scss-project-kp",
+  "version": "1.0.0",
+  "description": "scss project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kavindu-prabhashitha",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-purgecss": "^6.0.0"
+  },
+  "dependencies": {
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.80.4"
+  }
+}
